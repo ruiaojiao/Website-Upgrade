@@ -1,8 +1,12 @@
 ---
-title:  "Advanced examples"
-mathjax: true
 layout: post
+mathjax: true
 categories: media
+title: "Advanced examples"
+subtitle: "AE"
+background: '/img/posts/restaurant_covid/res.jpg'
+thumbnail: '/img/posts/restaurant_covid/fig_1.png'
+
 ---
 
 ![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
